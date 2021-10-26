@@ -1,1 +1,1 @@
-Deploy da animação:
+Deploy da animação: animationloading.netlify.app
